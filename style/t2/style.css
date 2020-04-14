@@ -1,0 +1,33 @@
+﻿/*
+[name]T2&#32463;&#20856;&#34013;[/name]
+[iconbgcolor]#29A1F7[/iconbgcolor]
+*/
+
+.button, .pbutton { background:url(./images/button_bg.png) no-repeat; }
+.button2 { background: url(./images/button_bg2.png) no-repeat; }
+.bz-lore-header { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.bz-lore-input:focus { border-bottom: 1px solid #29A1F7; }
+.bz_passwd_px:focus { border-bottom: 1px solid #29A1F7; }
+.btn_login .pn, .btn_register .pn { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.bz-mobile { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.bz-sub-show h2 code:before { background: #29A1F7; }
+.bz-sub-close h2 code:before { background: #CCC; }
+.user_avatar { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.btn-big .touch { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.forumlistpbl_box .pnc { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.btn_pn_blue { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.bzfc_s { color: #29A1F7 !important; }
+.rtt { color: #29A1F7 !important; }
+.bg_xm { background: #29A1F7; }
+.forum_bg .nav ul li.on { color: #29A1F7; }
+.bz-l-nav .leftNav-header .cover { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.sub_forum li .data { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+.forum_fd_iconfav .fav a { border: 1px solid #29A1F7; color: #29A1F7; }
+.forum_fd_iconfav .pic a { color: #29A1F7; }
+.bz-types-nav a.a { color: #29A1F7; }
+.bz-types-nav a.a:after { background: #29A1F7; }
+.bz-vt-post-share li em { background: #29A1F7; }
+.bz-menu-vt i { color: #29A1F7; }
+.rpasspay { color: #29A1F7; }
+.post_sort_img_btn .psi_btn { background-color: #29A1F7; background-image: linear-gradient(45deg, #62BBFA, #29A1F7); }
+

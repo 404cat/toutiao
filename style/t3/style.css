@@ -1,0 +1,33 @@
+﻿/*
+[name]T3&#32463;&#20856;&#32418;[/name]
+[iconbgcolor]#D33D3E[/iconbgcolor]
+*/
+
+.button, .pbutton { background:url(./images/button_bg.png) no-repeat; }
+.button2 { background: url(./images/button_bg2.png) no-repeat; }
+.bz-lore-header { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.bz-lore-input:focus { border-bottom: 1px solid #D33D3E; }
+.bz_passwd_px:focus { border-bottom: 1px solid #D33D3E; }
+.btn_login .pn, .btn_register .pn { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.bz-mobile { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.bz-sub-show h2 code:before { background: #D33D3E; }
+.bz-sub-close h2 code:before { background: #CCC; }
+.user_avatar { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.btn-big .touch { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.forumlistpbl_box .pnc { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.btn_pn_blue { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.bzfc_s { color: #D33D3E !important; }
+.rtt { color: #D33D3E !important; }
+.bg_xm { background: #D33D3E; }
+.forum_bg .nav ul li.on { color: #D33D3E; }
+.bz-l-nav .leftNav-header .cover { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.sub_forum li .data { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+.forum_fd_iconfav .fav a { border: 1px solid #D33D3E; color: #D33D3E; }
+.forum_fd_iconfav .pic a { color: #D33D3E; }
+.bz-types-nav a.a { color: #D33D3E; }
+.bz-types-nav a.a:after { background: #D33D3E; }
+.bz-vt-post-share li em { background: #D33D3E; }
+.bz-menu-vt i { color: #D33D3E; }
+.rpasspay { color: #D33D3E; }
+.post_sort_img_btn .psi_btn { background-color: #D33D3E; background-image: linear-gradient(45deg, #F2696A, #D33D3E); }
+
